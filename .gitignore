@@ -8,6 +8,7 @@
 /Builds/
 /Logs/
 /MemoryCaptures/
+/UserSettings
 
 # game.log (should be written to /Logs/ instead)
 /game.log
